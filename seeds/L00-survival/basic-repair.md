@@ -5,15 +5,18 @@
 
 ## Capability
 
-Be able to signal that you do not understand in a polite way so the other person can adjust.
+Be able to signal that you do not understand and ask the other person to repeat, so the interaction can continue.
 
-## Core pattern learned
+## Core patterns learned
 
 すみません、わかりません。 (sumimasen, wakarimasen)  
-わかりません。 (wakarimasen)
+わかりません。 (wakarimasen)  
+もう一度お願いします。 (mou ichido onegaishimasu)  
+もう一度ください。 (mou ichido kudasai)  
+もう一度。 (mou ichido)
 
 ## Notes
 
-- Successfully tested in S002.
-- Already chained with basic-request in the same situation.
-- Next natural growth: ask for repetition (もう一度) or slower speech (ゆっくり).
+- Successfully tested in S002 and S003.
+- Full survival chain is usable: request → don’t understand → please repeat.
+- Next natural growth: ask for slower speech (ゆっくり話してください).
