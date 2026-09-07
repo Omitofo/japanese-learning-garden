@@ -5,11 +5,12 @@
 - Ask for an object by pointing and using これください (kore kudasai) / それください (sore kudasai) / あれください (are kudasai)
 - Politely signal that I don’t understand with すみません、わかりません (sumimasen, wakarimasen) or the short form わかりません (wakarimasen)
 - Politely ask someone to repeat with もう一度お願いします (mou ichido onegaishimasu) (also もう一度ください / もう一度)
+- Explain that I am learning Japanese with すみません、日本語を勉強しています (sumimasen, nihongo o benkyou shiteimasu)
 
 ## Seeds growing
 
 - basic-request (L00) — can produce and transform the core pattern; still benefits from more real-life repetition
-- basic-repair (L00) — can signal incomprehension and ask for repetition; can run the full survival chain; still benefits from more real-life repetition
+- basic-repair (L00) — can signal incomprehension, ask for repetition, and explain learner status; can run extended survival chains; still benefits from more real-life repetition
 
 ## Weak capabilities
 
@@ -17,6 +18,7 @@
 
 ## Recently practiced
 
+- S004 — I’m learning Japanese (日本語を勉強しています)
 - S003 — ask to repeat (もう一度お願いします)
 - S002 — basic-repair (すみません、わかりません)
 - S001 — basic-request (これください)
@@ -25,10 +27,10 @@
 
 - [Object/Demonstrative] + ください (kudasai)
 - Distance demonstratives: これ (kore) / それ (sore) / あれ (are)
-- すみません、わかりません (sumimasen, wakarimasen) — polite repair
-- わかりません (wakarimasen) — short repair
-- もう一度お願いします (mou ichido onegaishimasu) — ask for repetition
-- Full survival chain: request → don’t understand → please repeat
+- すみません、わかりません (sumimasen, wakarimasen)
+- もう一度お願いします (mou ichido onegaishimasu)
+- すみません、日本語を勉強しています (sumimasen, nihongo o benkyou shiteimasu)
+- Extended survival chain: request → don’t understand → I’m learning → please repeat
 
 ## Known problems
 
@@ -43,4 +45,4 @@
 
 ---
 
-*Updated after logging S003.*
+*Updated after logging S004.*
