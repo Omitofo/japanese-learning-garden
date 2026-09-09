@@ -7,5 +7,6 @@
 | S003 | basic-repair (ext) | Ask someone to repeat | Could signal incomprehension but not request repetition → Can use もう一度お願いします and run full survival chain | growing |
 | S004 | basic-repair (ext) | Explain that I am learning Japanese | No simple way to explain learner status → Can use すみません、日本語を勉強しています and mix with other repair phrases | growing |
 | S005 | basic-repair (ext) | Ask someone to speak more slowly | Could ask for repetition but not for slower speech → Can use ゆっくり話してください and full clarity repair toolkit | growing |
+| S006 | ask-what-something-is | Ask what something is | No simple way to ask what something was → Can use これ/それ/あれは何ですか and chain with repair tools | growing |
 
 *Detail lives in the individual sprint files under `sprints/completed/`.*
