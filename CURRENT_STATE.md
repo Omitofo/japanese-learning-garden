@@ -9,6 +9,7 @@
 - Politely ask someone to speak more slowly with ゆっくり話してください (yukkuri hanashite kudasai) (also ゆっくりお願いします / ゆっくり)
 - Ask what something is with これは何ですか (kore wa nan desu ka) / それは何ですか (sore wa nan desu ka) / あれは何ですか (are wa nan desu ka)
 - Ask where something is with これはどこですか (kore wa doko desu ka) / それはどこですか (sore wa doko desu ka) / あれはどこですか (are wa doko desu ka)
+- Ask where the toilet is with トイレはどこですか (toire wa doko desu ka) / おトイレはどこですか (o-toire wa doko desu ka)
 - Thank someone politely with ありがとうございます (arigatou gozaimasu) (also ありがとう)
 
 ## Seeds growing
@@ -16,7 +17,7 @@
 - basic-request (L00) — can produce and transform the core pattern; still benefits from more real-life repetition
 - basic-repair (L00) — full clarity/speed repair toolkit is usable; still benefits from more real-life repetition
 - ask-what-something-is — can ask what something is with the three demonstratives and chain with repair tools
-- ask-where-something-is — can ask where something is with the three demonstratives and contrast with 何
+- ask-where-something-is — can ask where something is with the three demonstratives, contrast with 何, and now replace the demonstrative with a concrete noun (トイレ)
 - thank-you — can close interactions politely
 
 ## Weak capabilities
@@ -25,6 +26,7 @@
 
 ## Recently practiced
 
+- S009 — where is the toilet (トイレはどこですか)
 - S008 — thank you (ありがとうございます)
 - S007 — where is it (これはどこですか)
 - S006 — what is this (これは何ですか)
@@ -43,7 +45,7 @@
 - すみません、日本語を勉強しています (sumimasen, nihongo o benkyou shiteimasu)
 - ゆっくり話してください (yukkuri hanashite kudasai)
 - [Demonstrative] + は何ですか (wa nan desu ka)
-- [Demonstrative] + はどこですか (wa doko desu ka)
+- [Demonstrative / Concrete noun] + はどこですか (wa doko desu ka)
 - ありがとうございます (arigatou gozaimasu)
 - Question frame: [X] は [question word] ですか
 - Full survival + information + politeness chain: request / ask what / ask where → don’t understand → I’m learning → speak slowly → please repeat → thank you
@@ -54,9 +56,9 @@
 
 ## Open communication gaps
 
-- Replacing the demonstrative with a concrete noun (e.g. water, toilet, station)
 - Saying what I want more explicitly
+- More concrete nouns for location questions (water, station, exit, etc.)
 
 ---
 
-*Updated after logging S008.*
+*Updated after logging S009.*
