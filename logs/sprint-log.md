@@ -9,5 +9,6 @@
 | S005 | basic-repair (ext) | Ask someone to speak more slowly | Could ask for repetition but not for slower speech → Can use ゆっくり話してください and full clarity repair toolkit | growing |
 | S006 | ask-what-something-is | Ask what something is | No simple way to ask what something was → Can use これ/それ/あれは何ですか and chain with repair tools | growing |
 | S007 | ask-where-something-is | Ask where something is | No simple way to ask where something was → Can use これ/それ/あれはどこですか and contrast with 何 | growing |
+| S008 | thank-you | Thank someone politely | No solid automatic way to thank → Can use ありがとうございます and close interaction chains | growing |
 
 *Detail lives in the individual sprint files under `sprints/completed/`.*

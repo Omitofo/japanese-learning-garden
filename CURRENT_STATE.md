@@ -9,6 +9,7 @@
 - Politely ask someone to speak more slowly with ゆっくり話してください (yukkuri hanashite kudasai) (also ゆっくりお願いします / ゆっくり)
 - Ask what something is with これは何ですか (kore wa nan desu ka) / それは何ですか (sore wa nan desu ka) / あれは何ですか (are wa nan desu ka)
 - Ask where something is with これはどこですか (kore wa doko desu ka) / それはどこですか (sore wa doko desu ka) / あれはどこですか (are wa doko desu ka)
+- Thank someone politely with ありがとうございます (arigatou gozaimasu) (also ありがとう)
 
 ## Seeds growing
 
@@ -16,6 +17,7 @@
 - basic-repair (L00) — full clarity/speed repair toolkit is usable; still benefits from more real-life repetition
 - ask-what-something-is — can ask what something is with the three demonstratives and chain with repair tools
 - ask-where-something-is — can ask where something is with the three demonstratives and contrast with 何
+- thank-you — can close interactions politely
 
 ## Weak capabilities
 
@@ -23,6 +25,7 @@
 
 ## Recently practiced
 
+- S008 — thank you (ありがとうございます)
 - S007 — where is it (これはどこですか)
 - S006 — what is this (これは何ですか)
 - S005 — speak more slowly (ゆっくり話してください)
@@ -41,8 +44,9 @@
 - ゆっくり話してください (yukkuri hanashite kudasai)
 - [Demonstrative] + は何ですか (wa nan desu ka)
 - [Demonstrative] + はどこですか (wa doko desu ka)
+- ありがとうございます (arigatou gozaimasu)
 - Question frame: [X] は [question word] ですか
-- Full survival + information chain: request / ask what / ask where → don’t understand → I’m learning → speak slowly → please repeat
+- Full survival + information + politeness chain: request / ask what / ask where → don’t understand → I’m learning → speak slowly → please repeat → thank you
 
 ## Known problems
 
@@ -51,9 +55,8 @@
 ## Open communication gaps
 
 - Replacing the demonstrative with a concrete noun (e.g. water, toilet, station)
-- Basic politeness closing (thank you) as a dedicated mini-seed
 - Saying what I want more explicitly
 
 ---
 
-*Updated after logging S007.*
+*Updated after logging S008.*
