@@ -8,12 +8,14 @@
 - Explain that I am learning Japanese with すみません、日本語を勉強しています (sumimasen, nihongo o benkyou shiteimasu)
 - Politely ask someone to speak more slowly with ゆっくり話してください (yukkuri hanashite kudasai) (also ゆっくりお願いします / ゆっくり)
 - Ask what something is with これは何ですか (kore wa nan desu ka) / それは何ですか (sore wa nan desu ka) / あれは何ですか (are wa nan desu ka)
+- Ask where something is with これはどこですか (kore wa doko desu ka) / それはどこですか (sore wa doko desu ka) / あれはどこですか (are wa doko desu ka)
 
 ## Seeds growing
 
 - basic-request (L00) — can produce and transform the core pattern; still benefits from more real-life repetition
 - basic-repair (L00) — full clarity/speed repair toolkit is usable; still benefits from more real-life repetition
 - ask-what-something-is — can ask what something is with the three demonstratives and chain with repair tools
+- ask-where-something-is — can ask where something is with the three demonstratives and contrast with 何
 
 ## Weak capabilities
 
@@ -21,6 +23,7 @@
 
 ## Recently practiced
 
+- S007 — where is it (これはどこですか)
 - S006 — what is this (これは何ですか)
 - S005 — speak more slowly (ゆっくり話してください)
 - S004 — I’m learning Japanese (日本語を勉強しています)
@@ -37,7 +40,9 @@
 - すみません、日本語を勉強しています (sumimasen, nihongo o benkyou shiteimasu)
 - ゆっくり話してください (yukkuri hanashite kudasai)
 - [Demonstrative] + は何ですか (wa nan desu ka)
-- Full survival + information chain: request / ask what it is → don’t understand → I’m learning → speak slowly → please repeat
+- [Demonstrative] + はどこですか (wa doko desu ka)
+- Question frame: [X] は [question word] ですか
+- Full survival + information chain: request / ask what / ask where → don’t understand → I’m learning → speak slowly → please repeat
 
 ## Known problems
 
@@ -45,9 +50,10 @@
 
 ## Open communication gaps
 
-- Asking where something is
-- Replacing the demonstrative with a concrete noun (e.g. water, this item name)
+- Replacing the demonstrative with a concrete noun (e.g. water, toilet, station)
+- Basic politeness closing (thank you) as a dedicated mini-seed
+- Saying what I want more explicitly
 
 ---
 
-*Updated after logging S006.*
+*Updated after logging S007.*
