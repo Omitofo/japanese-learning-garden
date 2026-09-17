@@ -11,5 +11,6 @@
 | S007 | ask-where-something-is | Ask where something is | No simple way to ask where something was → Can use これ/それ/あれはどこですか and contrast with 何 | growing |
 | S008 | thank-you | Thank someone politely | No solid automatic way to thank → Can use ありがとうございます and close interaction chains | growing |
 | S009 | ask-where-something-is (ext) | Ask where the toilet is (concrete noun) | Could only use demonstratives for location → Can use トイレはどこですか / おトイレはどこですか and chain with attention + thanks | growing |
+| S010 | basic-request (ext) | Ask for water (concrete noun) | Could only use demonstratives for requests → Can use 水をください / お水をください and chain with attention + thanks | growing |
 
 *Detail lives in the individual sprint files under `sprints/completed/`.*
