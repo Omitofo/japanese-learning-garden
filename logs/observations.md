@@ -22,3 +22,9 @@ Examples of what belongs here:
 - Replacing a demonstrative with a concrete noun (水) works cleanly inside the request frame.
 - The same politeness instinct appears again: user preferred お水.
 - Strong parallel between the two seeds: concrete noun + existing pattern.
+
+## S011 — Closing the restaurant loop
+
+- お会計 fits cleanly into the same request frame.
+- User comfortably mixes ください and お願いします.
+- Completes a full useful interaction: order (water) → ask for bill → thank.

@@ -4,6 +4,7 @@
 
 - Ask for an object by pointing and using これください (kore kudasai) / それください (sore kudasai) / あれください (are kudasai)
 - Ask for water with 水をください (mizu o kudasai) / お水をください (o-mizu o kudasai)
+- Ask for the bill with お会計をください (o-kaikei o kudasai) / お会計お願いします (o-kaikei onegaishimasu)
 - Politely signal that I don’t understand with すみません、わかりません (sumimasen, wakarimasen) or the short form わかりません (wakarimasen)
 - Politely ask someone to repeat with もう一度お願いします (mou ichido onegaishimasu) (also もう一度ください / もう一度)
 - Explain that I am learning Japanese with すみません、日本語を勉強しています (sumimasen, nihongo o benkyou shiteimasu)
@@ -15,7 +16,7 @@
 
 ## Seeds growing
 
-- basic-request (L00) — can produce and transform the core pattern with demonstratives and now with a concrete noun (水); still benefits from more real-life repetition
+- basic-request (L00) — can produce and transform the core pattern with demonstratives and with concrete nouns (水, お会計); still benefits from more real-life repetition
 - basic-repair (L00) — full clarity/speed repair toolkit is usable; still benefits from more real-life repetition
 - ask-what-something-is — can ask what something is with the three demonstratives and chain with repair tools
 - ask-where-something-is — can ask where something is with the three demonstratives, contrast with 何, and now replace the demonstrative with a concrete noun (トイレ)
@@ -27,6 +28,7 @@
 
 ## Recently practiced
 
+- S011 — ask for the bill (お会計をください)
 - S010 — ask for water (水をください)
 - S009 — where is the toilet (トイレはどこですか)
 - S008 — thank you (ありがとうございます)
@@ -41,6 +43,7 @@
 ## Patterns I can reuse
 
 - [Object/Demonstrative / Concrete noun] + を + ください (kudasai)
+- お会計お願いします (o-kaikei onegaishimasu)
 - Distance demonstratives: これ (kore) / それ (sore) / あれ (are)
 - すみません、わかりません (sumimasen, wakarimasen)
 - もう一度お願いします (mou ichido onegaishimasu)
@@ -58,10 +61,10 @@
 
 ## Open communication gaps
 
-- More concrete nouns for requests (coffee, tea, the bill, etc.)
+- More concrete nouns for requests (coffee, tea, etc.)
 - More concrete nouns for location questions (station, exit, etc.)
 - Saying quantities or prices
 
 ---
 
-*Updated after logging S010.*
+*Updated after logging S011.*

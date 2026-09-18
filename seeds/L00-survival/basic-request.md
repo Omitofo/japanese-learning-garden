@@ -13,11 +13,14 @@ Be able to ask for an object in a simple way by pointing and using a demonstrati
 それください。 (sore kudasai)  
 あれください。 (are kudasai)  
 水をください。 (mizu o kudasai)  
-お水をください。 (o-mizu o kudasai)
+お水をください。 (o-mizu o kudasai)  
+お会計をください。 (o-kaikei o kudasai)  
+お会計お願いします。 (o-kaikei onegaishimasu)
 
 ## Notes
 
 - Successfully tested in S001 (demonstratives).
-- Successfully extended in S010 with the concrete noun 水 / お水.
-- User already uses repair strategies and shows good politeness instinct (choosing お).
-- Next natural growth: more concrete nouns (コーヒー, お茶, お会計, etc.), add quantity, or ask price.
+- Successfully extended in S010 with 水 / お水.
+- Successfully extended in S011 with お会計.
+- User shows consistent good politeness instinct (sumimasen + お forms + onegaishimasu).
+- Next natural growth: more concrete nouns (コーヒー, お茶, etc.), add quantity, or ask price.
