@@ -28,3 +28,9 @@ Examples of what belongs here:
 - お会計 fits cleanly into the same request frame.
 - User comfortably mixes ください and お願いします.
 - Completes a full useful interaction: order (water) → ask for bill → thank.
+
+## S012 — Price question
+
+- The question frame [X] は [question word] ですか continues to expand cleanly (何 → どこ → いくら).
+- User switches demonstratives accurately and chains naturally with attention + thanks.
+- Completes a practical buying loop: ask price → request → bill → thank.

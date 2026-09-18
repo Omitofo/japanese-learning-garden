@@ -12,6 +12,7 @@
 - Ask what something is with これは何ですか (kore wa nan desu ka) / それは何ですか (sore wa nan desu ka) / あれは何ですか (are wa nan desu ka)
 - Ask where something is with これはどこですか (kore wa doko desu ka) / それはどこですか (sore wa doko desu ka) / あれはどこですか (are wa doko desu ka)
 - Ask where the toilet is with トイレはどこですか (toire wa doko desu ka) / おトイレはどこですか (o-toire wa doko desu ka)
+- Ask how much something costs with これはいくらですか (kore wa ikura desu ka) / それはいくらですか (sore wa ikura desu ka) / あれはいくらですか (are wa ikura desu ka)
 - Thank someone politely with ありがとうございます (arigatou gozaimasu) (also ありがとう)
 
 ## Seeds growing
@@ -20,6 +21,7 @@
 - basic-repair (L00) — full clarity/speed repair toolkit is usable; still benefits from more real-life repetition
 - ask-what-something-is — can ask what something is with the three demonstratives and chain with repair tools
 - ask-where-something-is — can ask where something is with the three demonstratives, contrast with 何, and now replace the demonstrative with a concrete noun (トイレ)
+- ask-price — can ask how much something costs with the three demonstratives and chain with attention + thanks
 - thank-you — can close interactions politely
 
 ## Weak capabilities
@@ -28,6 +30,7 @@
 
 ## Recently practiced
 
+- S012 — how much is it (これはいくらですか)
 - S011 — ask for the bill (お会計をください)
 - S010 — ask for water (水をください)
 - S009 — where is the toilet (トイレはどこですか)
@@ -51,9 +54,10 @@
 - ゆっくり話してください (yukkuri hanashite kudasai)
 - [Demonstrative] + は何ですか (wa nan desu ka)
 - [Demonstrative / Concrete noun] + はどこですか (wa doko desu ka)
+- [Demonstrative] + はいくらですか (wa ikura desu ka)
 - ありがとうございます (arigatou gozaimasu)
 - Question frame: [X] は [question word] ですか
-- Full survival + information + politeness chain: request / ask what / ask where → don’t understand → I’m learning → speak slowly → please repeat → thank you
+- Full survival + information + politeness chain: request / ask what / ask where / ask price → don’t understand → I’m learning → speak slowly → please repeat → thank you
 
 ## Known problems
 
@@ -63,8 +67,8 @@
 
 - More concrete nouns for requests (coffee, tea, etc.)
 - More concrete nouns for location questions (station, exit, etc.)
-- Saying quantities or prices
+- Saying quantities
 
 ---
 
-*Updated after logging S011.*
+*Updated after logging S012.*
