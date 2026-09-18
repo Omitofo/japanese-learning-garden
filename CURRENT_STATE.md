@@ -5,6 +5,7 @@
 - Ask for an object by pointing and using これください (kore kudasai) / それください (sore kudasai) / あれください (are kudasai)
 - Ask for water with 水をください (mizu o kudasai) / お水をください (o-mizu o kudasai)
 - Ask for the bill with お会計をください (o-kaikei o kudasai) / お会計お願いします (o-kaikei onegaishimasu)
+- Request a quantity with 一つください (hitotsu kudasai) / 二つください (futatsu kudasai) and combine with nouns (水を一つください)
 - Politely signal that I don’t understand with すみません、わかりません (sumimasen, wakarimasen) or the short form わかりません (wakarimasen)
 - Politely ask someone to repeat with もう一度お願いします (mou ichido onegaishimasu) (also もう一度ください / もう一度)
 - Explain that I am learning Japanese with すみません、日本語を勉強しています (sumimasen, nihongo o benkyou shiteimasu)
@@ -18,7 +19,7 @@
 
 ## Seeds growing
 
-- basic-request (L00) — can produce and transform the core pattern with demonstratives and with concrete nouns (水, お会計); still benefits from more real-life repetition
+- basic-request (L00) — can produce and transform the core pattern with demonstratives, concrete nouns (水, お会計), and quantities (一つ, 二つ); still benefits from more real-life repetition
 - basic-repair (L00) — full clarity/speed repair toolkit is usable; still benefits from more real-life repetition
 - ask-what-something-is — can ask what something is with the three demonstratives and chain with repair tools
 - ask-where-something-is — can ask where something is with the three demonstratives, contrast with 何, and with concrete nouns (トイレ, 駅)
@@ -31,6 +32,7 @@
 
 ## Recently practiced
 
+- S014 — one, please (一つください)
 - S013 — where is the station (駅はどこですか)
 - S012 — how much is it (これはいくらですか)
 - S011 — ask for the bill (お会計をください)
@@ -47,7 +49,7 @@
 
 ## Patterns I can reuse
 
-- [Object/Demonstrative / Concrete noun] + を + ください (kudasai)
+- [Object/Demonstrative / Concrete noun / Quantity] + ください (kudasai)
 - お会計お願いします (o-kaikei onegaishimasu)
 - Distance demonstratives: これ (kore) / それ (sore) / あれ (are)
 - すみません、わかりません (sumimasen, wakarimasen)
@@ -69,8 +71,8 @@
 
 - More concrete nouns for requests (coffee, tea, etc.)
 - More concrete nouns for location questions (exit, etc.)
-- Saying quantities
+- More counters / larger quantities
 
 ---
 
-*Updated after logging S013.*
+*Updated after logging S014.*

@@ -40,3 +40,9 @@ Examples of what belongs here:
 - 駅 fits cleanly as another high-value concrete noun in the location frame.
 - Strong parallel with トイレはどこですか.
 - Continues building practical navigation ability.
+
+## S014 — Quantities
+
+- 一つ / 二つ fit cleanly into the request frame and combine well with known nouns.
+- High reuse value: multiplies every previous request.
+- Small pronunciation note from test: hitotsu (not “hitatsu”).
