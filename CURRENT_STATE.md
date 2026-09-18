@@ -12,6 +12,7 @@
 - Ask what something is with これは何ですか (kore wa nan desu ka) / それは何ですか (sore wa nan desu ka) / あれは何ですか (are wa nan desu ka)
 - Ask where something is with これはどこですか (kore wa doko desu ka) / それはどこですか (sore wa doko desu ka) / あれはどこですか (are wa doko desu ka)
 - Ask where the toilet is with トイレはどこですか (toire wa doko desu ka) / おトイレはどこですか (o-toire wa doko desu ka)
+- Ask where the station is with 駅はどこですか (eki wa doko desu ka)
 - Ask how much something costs with これはいくらですか (kore wa ikura desu ka) / それはいくらですか (sore wa ikura desu ka) / あれはいくらですか (are wa ikura desu ka)
 - Thank someone politely with ありがとうございます (arigatou gozaimasu) (also ありがとう)
 
@@ -20,7 +21,7 @@
 - basic-request (L00) — can produce and transform the core pattern with demonstratives and with concrete nouns (水, お会計); still benefits from more real-life repetition
 - basic-repair (L00) — full clarity/speed repair toolkit is usable; still benefits from more real-life repetition
 - ask-what-something-is — can ask what something is with the three demonstratives and chain with repair tools
-- ask-where-something-is — can ask where something is with the three demonstratives, contrast with 何, and now replace the demonstrative with a concrete noun (トイレ)
+- ask-where-something-is — can ask where something is with the three demonstratives, contrast with 何, and with concrete nouns (トイレ, 駅)
 - ask-price — can ask how much something costs with the three demonstratives and chain with attention + thanks
 - thank-you — can close interactions politely
 
@@ -30,6 +31,7 @@
 
 ## Recently practiced
 
+- S013 — where is the station (駅はどこですか)
 - S012 — how much is it (これはいくらですか)
 - S011 — ask for the bill (お会計をください)
 - S010 — ask for water (水をください)
@@ -66,9 +68,9 @@
 ## Open communication gaps
 
 - More concrete nouns for requests (coffee, tea, etc.)
-- More concrete nouns for location questions (station, exit, etc.)
+- More concrete nouns for location questions (exit, etc.)
 - Saying quantities
 
 ---
 
-*Updated after logging S012.*
+*Updated after logging S013.*

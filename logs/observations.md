@@ -34,3 +34,9 @@ Examples of what belongs here:
 - The question frame [X] は [question word] ですか continues to expand cleanly (何 → どこ → いくら).
 - User switches demonstratives accurately and chains naturally with attention + thanks.
 - Completes a practical buying loop: ask price → request → bill → thank.
+
+## S013 — Station location
+
+- 駅 fits cleanly as another high-value concrete noun in the location frame.
+- Strong parallel with トイレはどこですか.
+- Continues building practical navigation ability.

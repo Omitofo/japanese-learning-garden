@@ -14,5 +14,6 @@
 | S010 | basic-request (ext) | Ask for water (concrete noun) | Could only use demonstratives for requests → Can use 水をください / お水をください and chain with attention + thanks | growing |
 | S011 | basic-request (ext) | Ask for the bill (concrete noun) | Could order water but not close the transaction → Can use お会計をください / お会計お願いします and chain with attention + thanks | growing |
 | S012 | ask-price (new) | Ask how much something costs | Could ask what/where but not the price → Can use これはいくらですか and switch demonstratives + chain with attention + thanks | growing |
+| S013 | ask-where-something-is (ext) | Ask where the station is (concrete noun) | Could ask for toilet but not station → Can use 駅はどこですか and chain with attention + thanks | growing |
 
 *Detail lives in the individual sprint files under `sprints/completed/`.*
